@@ -13,13 +13,18 @@ items:
  - wet-boew/wet-boew
  - CityOfPhiladelphia/flu-shot-spec
  - nysenate/OpenLegislation
- - cfpb/qu
  - openlexington/gethelplex
  - uscensusbureau/citysdk
  - NREL/api-umbrella
  - usds/playbook
  - republique-et-canton-de-geneve/chvote-1-0
  - https://www.youtube.com/embed/uNa9GOtM6NE
+ - gchq/CyberChef
+ - HSEIreland/covid-tracker-app
+ - nic-delhi/AarogyaSetu_Android
+ - govCMS/GovCMS
+ - coloradodigitalservice/exposure-notifications-metrics-public
+ - nasa/Transform-to-Open-Science
 display_name: Government apps
 created_by: jbjonesjr
 image: government.png
